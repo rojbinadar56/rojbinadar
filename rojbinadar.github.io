@@ -2,7 +2,7 @@
     <title> Rojbin ADAR Vize Ödev </title>
         <style> 
         body {
-            background-image: url("pembe.jpg");
+            background-image: url(https://img.freepik.com/free-photo/pink-brush-texture_95678-138.jpg?w=2000);
         }
 
         h1 { text-align: center;
