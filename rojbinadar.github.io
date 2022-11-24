@@ -45,7 +45,7 @@ h2 {
 
             <h1> Rojbin ADAR Kişisel</h1>
 
-            <p> Merhaba Arkadaşlar Ben Rojbin. Fırat Üniversitesi Görsel İletişim Tasarımı Bölümü 4.sınıf öğrencisiyim.
+            <p> Merhaba Arkadaşlar Ben Rojbin.Fırat Üniversitesi Görsel İletişim Tasarımı Bölümü 4.sınıf öğrencisiyim.
                 Bu sayfada sizlere kendi kişisel paylaşımlarımlarımı sunacağım. Tasarımlarım, Çektiğim Fotoğraflar ve kişisel bloglarımı paylaşacağım siteme hepiniz hoşgeldiniz.
             </p>
             <h2> Fotoğraflarım</h2>
