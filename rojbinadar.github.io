@@ -3,6 +3,7 @@
         <style> 
         body {
             background-image: url("https://img.freepik.com/free-photo/pink-brush-texture_95678-138.jpg?w=2000");
+            background-color: pink;
         }
 
         h1 { text-align: center;
