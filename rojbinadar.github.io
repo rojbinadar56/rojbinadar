@@ -14,7 +14,7 @@
     letter-spacing: 0.5cm; }
 
     p { text-align: center;
-        color: red;
+        color: rgb(250, 1, 1);
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       font-size: large;
       font-style: bold;
@@ -25,7 +25,7 @@
 }
 h2 {
     text-align: center;
-    color: red;
+    color: rgb(248, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35;
     letter-spacing: 0.5cm;
