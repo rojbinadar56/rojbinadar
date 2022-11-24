@@ -9,12 +9,12 @@
 
         h1 { text-align: center;
         font-family: Arial, Helvetica, sans-serif;
-    color: rgb(255, 0, 0);
+    color: red;
     font-size: 50;
     letter-spacing: 0.5cm; }
 
     p { text-align: center;
-        color: rgb(250, 1, 1);
+        color: red;
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
       font-size: large;
       font-style: bold;
@@ -25,7 +25,7 @@
 }
 h2 {
     text-align: center;
-    color: rgb(248, 0, 0);
+    color: red;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35;
     letter-spacing: 0.5cm;
